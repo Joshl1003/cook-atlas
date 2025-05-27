@@ -1,11 +1,13 @@
 # CookAtlas DB Project
 
+NOTE: This is a group project from Virgina Tech.
+
 ## Requirements
 
 - **Git**
 - **PostgreSQL** (installed locally)
 - **Node.js**
-
+- **Other dependencies -> check "clean-and-build.sh"**
 
 ## Local Setup
 

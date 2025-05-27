@@ -2,6 +2,15 @@
 
 NOTE: This is a group project from Virgina Tech.
 
+## Contributers
+- Alek B (alekbreitenbach1)
+- Ethan T (HiImBirch)
+- Jack M (Haxered)
+- Joshua L (school git account used is Joshl1417)
+- Lukyan S (lukyan01)
+
+
+
 ## Requirements
 
 - **Git**
